@@ -1,3 +1,5 @@
+# Improvements including UI coming soon.
+
 Check out the video tutorial at http://youtu.be/C3TSq9wCjTs
 
 I. DEPENDENCIES
@@ -68,11 +70,6 @@ REMEMBER: VLC MUST BE RUNNING FOR THE SCRIPT TO EFFECTIVELY MANIPULATE IT. (This
 Hope that helps. Any troubles, please drop me a line: bitillionaire@gmail.com
 
 If you've found this guide helpful, I accept tips in the following formats:
-Paypal: bitillionaire@gmail.com
 Bitcoin: 1phmMcubFy298wujNFj6hQ1gctUBFovmL
-Litecoin: LPHM86GNAGG3mcVMK7k9ScEbBWwuiAmtJt
-Dogecoin: DEphmbJ7PxRUdT7CARQZ49W5BSaBnaovP5
-Peercoin: PHMuYDJqyFdAoeFvsye13QSfAtznTKBcWw
-Woodcoin: Wcmd8xXYjpeK4qeckKLbBcy93vUU8mdQFG
-Feathercoin: 6xPHMuDPDUAJHBk8s8bdMdhA5cPnkHdM5j
+Woodcoin: WiPHMipxoJWr2Mw1AvPHvaMpzQfzTBLNu4
 
