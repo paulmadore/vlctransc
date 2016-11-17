@@ -21,7 +21,7 @@ In VLC, go to Tools > Preferences.
 
 4. Tick the box called "Fake TTY."
 
-5. On the "UNIX socket command input" field, enter home/USER/vlctransc/vlc.sock. This is the primary difference between this script and its forefather -- for whatever reason, VLC refused to write its .sock file to the home directory. In any case, it's better to have a separate folder running an executable file than it is to have it operating out of your home folder. It also enables you to hide the folder along with all of your .folders. And so forth. 
+5. On the "UNIX socket command input" field, enter /home/USER/vlctransc/vlc.sock. This is the primary difference between this script and its forefather -- for whatever reason, VLC refused to write its .sock file to the home directory. In any case, it's better to have a separate folder running an executable file than it is to have it operating out of your home folder. It also enables you to hide the folder along with all of your .folders. And so forth. 
 
 6. Open a terminal in the download directory and type
     cp vlctransc.py ~/vlctransc
