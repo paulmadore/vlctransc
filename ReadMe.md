@@ -39,7 +39,7 @@ Now the script lives and is executable in /home/USER/vlctransc
     
     pause - Also will resume play. Depending on your habit, you may want to create two hotkeys for this.
     
-    jogfoward - Moves ahead in the audio based on VLC settings.
+    jogforward - Moves ahead in the audio based on VLC settings.
     
     jogbackward - Moves backward in the audio based on VLC settings.
     
